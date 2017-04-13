@@ -1,0 +1,7 @@
+public class thisJavaFile 
+{
+    public static void main(String [] args)
+    {
+        System.out.println("Tuscan is the best person i have ever met")
+    }
+}
